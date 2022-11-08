@@ -1,0 +1,29 @@
+
+ Bonjour monde
+ Bonjour à tous
+ Bonjour monde
+ Bonjour à tous
+ La valeur est de: 20
+ Bonjour monde
+ Bonjour à tous
+ La valeur est de: 20
+ Bonjour monde
+ Bonjour à tous
+ La valeur est de: 20
+ Le résultat de cette somme est: 147
+ Bonjour monde
+ Bonjour à tous
+ La valeur est de: 20
+ Le résultat de cette somme est: 145
+ Bonjour monde
+ Bonjour à tous
+ La valeur est de: 20
+ la premiere valeur est: 5
+ la deuxieme valeur est: 5
+ Le résultat de la somme de ces deux chiffres est: 10
+ Bonjour monde
+ Bonjour à tous
+ La valeur est de: 20
+ la premiere valeur est: 20
+ la deuxieme valeur est: 50
+ Le résultat de la somme de ces deux chiffres est: 70
